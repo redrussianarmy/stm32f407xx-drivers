@@ -3,4 +3,4 @@ GPIO, SPI, I2C and USART drivers were written to use in STM32F407xx Discovery Ki
 
 STM32Cube IDE was used to develop.
 
-These drivers was developed by the developer for self-development.
+These drivers were developed by the developer for self-development.
