@@ -52,7 +52,7 @@ In case of using the supported STMicroelectronics evaluation boards the examples
 
 In order to do that, please follow the following steps:
 
-1. Simply open the project in STM32CubeIDE
+1. Simply open the project with STM32CubeIDE
 2. Open one of the example in *src* folder.
 3. Make sure that other examples are excluded from build.
 4. Build the project.
