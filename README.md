@@ -48,7 +48,7 @@ STM32CubeIDE was used to develop this project.
 
 ### 3.a Using a STMicroelectronics STM32F407xx Discovery Board
 
-In case of using the supported STMicroelectronics evaluation boards the examples file(.c) can run without applying any modifications (as is).
+In case of using the supported STMicroelectronics discovery board the example file(.c) can run without applying any modifications (as is).
 
 In order to do that, please follow the following steps:
 
