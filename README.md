@@ -46,7 +46,7 @@ You only need to include the device-specific header file ```"stm32f407xx.h"``` i
 
 STM32CubeIDE was used to develop this project.
 
-### 3.a Using a STMicroelectronics evaluation boards
+### 3.a Using a STMicroelectronics STM32F407xx Discovery Board
 
 In case of using the supported STMicroelectronics evaluation boards the examples file(.c) can run without applying any modifications (as is).
 
